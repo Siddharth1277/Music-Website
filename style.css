@@ -25,6 +25,7 @@
     cursor: pointer;
     align-items: left;
     margin-left: 2%;
+    margin-top: 15px;
 }
 .navbar ul li{
     list-style: none;
